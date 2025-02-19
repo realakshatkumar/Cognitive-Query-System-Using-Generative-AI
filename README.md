@@ -1,6 +1,6 @@
 # Cognitive Query System Using Generative AI
 
-Link : https://cognitive-query-system-using-generative-ai.streamlit.app/
+Link : https://cognitive-query-system-using-generative-ai-6b9vdngsjhqlne92csk.streamlit.app/
 
 Paper : https://doi.org/10.22214/ijraset.2024.65247
 
